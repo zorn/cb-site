@@ -1,0 +1,84 @@
+AddHandler server-parsed .html
+
+AddType audio/ogg oga ogg
+AddType video/ogg ogv
+
+AddType video/webm .webm
+AddType audio/webm .weba
+
+Redirect /profittrain/download/ http://razorant.com/profittrain/download
+Redirect /profittrain/download http://razorant.com/profittrain/download
+
+Redirect /profittrain/screencast-intro/ http://media.razorant.com/profittrain/screencasts/IntroductionToProfitTrain.mov
+Redirect /profittrain/screencast-intro http://media.razorant.com/profittrain/screencasts/IntroductionToProfitTrain.mov
+
+Redirect /blog/rss/ http://blog.clickablebliss.com/feed/
+Redirect /blog/rss http://blog.clickablebliss.com/feed/
+
+Redirect /support/billable_faq/ /billable
+Redirect /support/billable_faq /billable
+
+Redirect /support/ /profittrain
+Redirect /support /profittrain
+
+Redirect /contact/ /contact.html
+Redirect /contact /contact.html
+
+Redirect /about/ /about.html
+Redirect /about /about.html
+
+Redirect /macworld2010/ /profittrain
+Redirect /macworld2010 /profittrain
+
+Redirect /billable/buying_from_within_the_app/ https://store.razorant.com/
+Redirect /billable/buying_from_within_the_app https://store.razorant.com/
+
+Redirect /billable/lost_serial/ https://store.razorant.com/licenselookup
+Redirect /billable/lost_serial https://store.razorant.com/licenselookup
+
+Redirect /billable/screencasts/ /billable
+Redirect /billable/screencasts /billable
+
+Redirect /billable/screenshots/ /billable
+Redirect /billable/screenshots /billable
+
+Redirect /billable/release_notes/ /billable
+Redirect /billable/release_notes /billable
+
+Redirect /billable/appcast/ /billable/appcast.xml
+Redirect /billable/appcast /billable/appcast.xml
+
+Redirect /consulting/custom_web_development/ /
+Redirect /consulting/custom_web_development /
+
+Redirect /consulting/screencast_production/ /
+Redirect /consulting/screencast_production /
+
+Redirect /consulting/user_experience_reviews/ /
+Redirect /consulting/user_experience_reviews /
+
+Redirect /consulting/ /
+Redirect /consulting /
+
+Redirect /ProfitTrain/ /profittrain/
+Redirect /ProfitTrain /profittrain/
+
+Redirect /apple/ https://store.razorant.com/apple
+Redirect /apple https://store.razorant.com/apple
+
+Redirect /Apple/ https://store.razorant.com/apple
+Redirect /Apple https://store.razorant.com/apple
+
+Redirect /twizshow/index-new.html http://clickablebliss.com/twizshow/
+
+Redirect /profittrain/ http://razorant.com/profittrain/
+Redirect /profittrain http://razorant.com/profittrain/
+
+Redirect /billable/ http://razorant.com/billable/
+Redirect /billable http://razorant.com/billable/
+
+Redirect /dex/ http://clickablebliss.com
+Redirect /dex http://clickablebliss.com
+
+Redirect /twizshow/ http://clickablebliss.com
+Redirect /twizshow http://clickablebliss.com

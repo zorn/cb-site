@@ -1,0 +1,13 @@
+To: support@clickablebliss.com
+From: [required-email]
+Cc: [required-email]
+Subject: Contact Form Submission
+Reply-To: [required-email]
+
+Name: [realname] 
+E-Mail Address: [required-email] 
+Visitor IP: [$REMOTE_HOST]
+
+Message:
+
+[required-message] 
